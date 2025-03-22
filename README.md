@@ -11,8 +11,6 @@
     <p>Jush Marc Escaniga</p>
     <img src="n3.jpg" alt="description">
     <p>Lixtir almindras</p>
-    <img src="n4.jpg" alt="description">
-    <p>Alnyur dominick Causing</p>
 </body>
 
     
